@@ -17,7 +17,7 @@ Team member:
 - UpdateCerticate()
 - GetPatientCerticate()
 
-# Rechnical Requirement
+# Technical Requirement
 
 We are Quarkus framword developed by Red Hat. https://quarkus.io
 
