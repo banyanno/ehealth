@@ -1,6 +1,6 @@
 # E-health Project
 
-E-Heal we provide a small API function for people to register and get information about the Covic-19 vaccination certificate. this project create by group assignment PV217 Software Oriented Architecher.
+E-Heal is a small API Microservice function. For people to register and get information about the Covic-19 vaccination certificate. this project create by group assignment PV217 Software Oriented Architecher.
 Team member:
 *Mr.Yanno Ban 528066*
 *Ms.Karolina Kokuchova 456120*
